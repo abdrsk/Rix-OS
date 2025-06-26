@@ -3,7 +3,7 @@
 
 Welcome To Rix-OS! idk how to write a .md file!!!!! (help)
 
-a project as a hobby to make a minimal distro to have every trick under your sleeve for exams, job, presentations!
+a project as a hobby to make a minimal live distro to have every trick under your sleeve for exams, job, presentations!
 
 
 u got the point
