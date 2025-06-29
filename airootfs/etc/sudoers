@@ -1,5 +1,0 @@
-root ALL=(ALL:ALL) ALL
-rixer ALL=(ALL:ALL) ALL
-Defaults    lecture=never
-Defaults timestamp_timeout=0, pwfeedback=false
-Defaults        badpass_message="did you forget ur name!"
